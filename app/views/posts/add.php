@@ -1,4 +1,4 @@
-<?php include_once APPROOT . '/views/inc/header.inc.php'; ?>
+<?php include APPROOT . '/views/inc/header.inc.php'; ?>
 
 <div class="card card-body mt-5">
     <h2 class="mb-3">Create new Post</h2>
@@ -17,4 +17,4 @@
     </form>
 </div>
 
-<?php include_once APPROOT . '/views/inc/footer.inc.php'; ?>
+<?php include APPROOT . '/views/inc/footer.inc.php'; ?>

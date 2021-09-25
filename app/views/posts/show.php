@@ -1,4 +1,4 @@
-<?php include_once APPROOT . '/views/inc/header.inc.php'; ?>
+<?php include APPROOT . '/views/inc/header.inc.php'; ?>
 <div class="mt-5">
     <h2 class="my-3"><?php echo $data['post']->postTitle ?></h2>
 
@@ -11,4 +11,4 @@
         <a href="<?php echo URLROOT; ?>posts/delete/<?php echo $data['post']->id ?>" class="btn btn-danger">Delete</a>
 
     <?php endif; ?>
-</div <?php include_once APPROOT . '/views/inc/footer.inc.php'; ?>
+</div <?php include APPROOT . '/views/inc/footer.inc.php'; ?>

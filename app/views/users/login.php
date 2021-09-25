@@ -1,4 +1,4 @@
-<?php include_once APPROOT . '/views/inc/header.inc.php'; ?>
+<?php include APPROOT . '/views/inc/header.inc.php'; ?>
 
 
 <div class="row">
@@ -29,4 +29,4 @@
     </div>
 </div>
 
-<?php include_once APPROOT . '/views/inc/footer.inc.php'; ?>
+<?php include APPROOT . '/views/inc/footer.inc.php'; ?>

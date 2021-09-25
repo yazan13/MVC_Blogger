@@ -13,5 +13,5 @@
 
 <body>
 
-    <?php include_once 'navbar.php'; ?>
+    <?php include 'navbar.php'; ?>
     <div class="container">

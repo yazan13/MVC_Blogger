@@ -1,7 +1,7 @@
 
 <?php
 
-include_once '../app/loader.php';
+include '../app/loader.php';
 
 
 $core = new Core();
